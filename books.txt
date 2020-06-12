@@ -1,0 +1,9 @@
+book_1   The Lost Symbol   Dan Brown  NO  
+book_2   The Alchemist   Paulo Coelho   YES
+book_3   2666   Roberto Bolano   YES
+book_4   Desert Solitaire   Edward Abbey   YES
+book_5   Disgrace   JM coetzee   YES
+book_6   Geek Love    Katherine Dunn   YES
+book_7   Gilead   Marilynne Robinson   YES
+book_8   Giovanni's Room   James Baldwin   YES
+
